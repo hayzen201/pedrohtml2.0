@@ -1,0 +1,29 @@
+header {
+    background: dimgray;
+    padding: 20px 0;
+}
+
+.caixacentral {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 125px;
+    right: 0px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 35px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 32px;
+    text-decoration: none;
+}

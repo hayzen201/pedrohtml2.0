@@ -1,0 +1,67 @@
+body {
+    background: rgba(128, 128, 128, 0.596);
+}
+
+.principal {
+    background: rgba(0, 255, 255, 0.726);
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+    background: rgba(49, 223, 49, 0.589)
+}
+
+.Benefícios {
+    padding: 20px;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+.nossamisao {
+    font-size: 20px;
+}
+
+#banner {
+    width: 100%;
+    box-shadow: 8px -4px 4px 2px dimgrey;
+    border-radius: 10px;
+}
+
+p {
+    text-align: center;
+    text-shadow: 4px -2px 3px #000000;
+}
+
+strong {
+    color: red;
+}
+
+em strong {
+    color: red;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.site {
+    transform: translateZ(15px);
+    transform: translateX(10px);
+    transform: translateY(-20px);
+}
+
+.som {}
